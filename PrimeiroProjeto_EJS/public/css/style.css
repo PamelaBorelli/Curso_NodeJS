@@ -1,0 +1,12 @@
+body{
+    background-color: #e9ecee;
+}
+
+img{
+    max-width: 35px;
+    margin-left: 15px;
+}
+
+#formulario-pergunta{
+    margin-top: 5vh;
+}
